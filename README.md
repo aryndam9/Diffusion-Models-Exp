@@ -9,13 +9,13 @@ We conduct experiments centered around latent diffusion models. Our work primari
 ## Experiment Stages
 
 ### Stage 1: Image Generation
-In the first stage of our experiment, we focused on text-to-image generation using latent diffusion models. We generated a collection of realistic images, all belonging to a specific category. The goal was to showcase creativity and proficiency in working with text-to-image models.
+In the first stage of our experiment, we focused on text-to-image generation using latent diffusion models. We generated a collection of realistic images, all belonging to a specific category.
 
 ### Stage 2: Quantify Semantic and Style Divergence
-Following the image generation, we delved into quantifying the semantic and style divergence of the generated images within the chosen category. We designed a strategy to automatically assess how these images differed in terms of content and artistic style. This stage demonstrated our analytical skills and image analysis expertise.
+Following the image generation, we delved into quantifying the semantic and style divergence of the generated images within the chosen category. We designed a strategy to automatically assess how these images differed in terms of content and artistic style.
 
 ### Stage 3: Enlarging Image Diversity
-In the final stage, we aimed to significantly increase the diversity of a new set of generated images, staying within the same category as in Stage 1. Our objective was to introduce substantial changes in diversity, showcasing creativity and problem-solving abilities.
+In the final stage, we aimed to significantly increase the diversity of a new set of generated images, staying within the same category as in Stage 1. Our objective was to introduce substantial changes in diversity.
 
 ## Image Folders
 
